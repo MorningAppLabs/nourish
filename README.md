@@ -1,2 +1,2 @@
 # nourish
-Nourish - Meal Planning App
+Nourish is your all-in-one meal planning companion designed to simplify your daily nutrition management. Create and organize your favorite recipes, plan meals across customizable sessions (breakfast, lunch, dinner), and automatically generate shopping lists with smart ingredient aggregation. Track your kitchen expenses with visual budget analytics, set medication reminders with flexible scheduling, and manage your grocery shopping frequency. The app features a clean, intuitive interface with swipeable navigation between sections. All your data—recipes, meal plans, shopping lists, and preferences—is stored locally on your device, ensuring complete privacy. Easy backup and restore functionality keeps your information safe.
