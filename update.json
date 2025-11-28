@@ -1,5 +1,6 @@
 {
-  "latest_version": "1.0.1",
-  "update_message": "🐛 Bug Fixes & Improvements\n\n✨ New Features:\n• Automatic update detection on app launch\n\n🔧 Bug Fixes:\n• Fixed currency not updating instantly\n• Fixed budget changes not reflecting on Home\n• Fixed shopping day changes not showing in real-time\n• Fixed meal assignments not appearing in Today's Agenda\n• Fixed chart Y-axis scrolling issue\n\n⚡ Improvements:\n• All settings changes now instant\n• Better chart scrolling experience\n• No need to restart app",
-  "apk_url": "https://github.com/MorningAppLabs/nourish/releases/download/v1.0.1/nourish-v1.0.1.apk"
+  "latest_version": "1.2.0",
+  "min_version": "1.0.0",
+  "update_message": "🌙 Dark Mode Support! Switch between Light, Dark, or System themes. New Onboarding Guide, FAQs section, Price List editor with filters, and improved budget tracking.",
+  "apk_url": "https://github.com/MorningAppLabs/nourish/releases/download/v1.2.0/nourish-v1.2.0.apk",
 }
