@@ -1,5 +1,5 @@
 {
   "latest_version": "1.2.0",
-  "update_message": "🌙 Dark Mode Support! Switch between Light, Dark, or System themes. New Onboarding Guide, FAQs section, Price List editor with filters, and improved budget tracking.",
+  "update_message": "🌙 Dark Mode Support\n\n✨ New Features:\n• Light, Dark, and System theme options\n• New Onboarding Guide for first-time users\n• FAQ section for quick help\n• Price List editor with search & filters\n\n📊 Improvements:\n• More accurate and responsive budget tracking\n\nEnjoy a smoother and more customizable experience!",
   "apk_url": "https://github.com/MorningAppLabs/nourish/releases/download/v1.2.0/nourish-v1.2.0.apk"
 }
